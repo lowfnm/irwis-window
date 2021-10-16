@@ -46,7 +46,7 @@ const timer = () => {
         }
     }
 
-    setClock('.container1', deadLine);
+    setClock('.container1ç', deadLine);
 };
 
 export default timer;
